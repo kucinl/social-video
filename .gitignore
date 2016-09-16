@@ -1,5 +1,7 @@
 .DS_Store
 
+# CodeIgniter cache/log files
+#-------------------------
 */config/development
 */logs/log-*.php
 !*/logs/index.html
